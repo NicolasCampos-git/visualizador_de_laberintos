@@ -1,6 +1,8 @@
 # Visualizador de Algoritmos de Busqueda en Laberintos
 
-![logo](logo.png)
+<div align="center">
+  <img src="logo.png" alt="logo" width="300">
+</div>
 
 Aplicacion de escritorio en Python (Tkinter) para visualizar, probar y comparar algoritmos de busqueda de rutas sobre laberintos.
 
